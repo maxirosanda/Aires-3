@@ -1,0 +1,30 @@
+
+.contenido{
+    padding: 40px;
+    
+    > div {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            margin: 12px;
+            padding: 40px;
+            border: solid 1px white;
+            border-radius: 40px;
+            
+            > section{
+               font-size: 20px;
+               font-family: cursive;
+
+                > h3{
+                    color: red;
+                    font-family: Georgia, 'Times New Roman', Times, serif;
+                    font-size: 30px;
+
+
+
+                    
+                }
+            }
+
+        }
+}
